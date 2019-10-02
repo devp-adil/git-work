@@ -156,6 +156,4 @@
 <script src="js/wow.min.js"></script>
 <script src="js/vidbg.min.js"></script>
 </body>
-
-<!-- Mirrored from coodiv.net/project/breed/html/shortcodes.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 08 Jan 2019 06:07:56 GMT -->
 </html>
